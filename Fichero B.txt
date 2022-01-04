@@ -1,2 +1,2 @@
 Contenido del fichero B
-Modificación del fichero
+Modificación del fichero 1
